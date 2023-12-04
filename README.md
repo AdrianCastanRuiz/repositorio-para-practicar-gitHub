@@ -1,2 +1,2 @@
-# repositorio-para-practicar
+# Mi primer README
 practicando GitHub
